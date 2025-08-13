@@ -27,7 +27,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Añad
 4. El sistema mostrará un nombre aleatorio como el "Amigo Secreto".
 
 ## 🌐 Demo en GitHub Pages
-[Enlace al proyecto](https:)
+[Enlace al proyecto](https://lialvarez30.github.io/amigo-secreto/)
 
 ---
 Hecho para el challenge de **#AluraLatam** y **#OracleNextEducation**
