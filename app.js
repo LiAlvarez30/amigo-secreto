@@ -34,7 +34,7 @@ function mostrarLista() {
 // Función para sortear un amigo al azar
 function sortearAmigo() {
     if (listaAmigos.length === 0) {
-        alert("No hay Amigos para sortear. Agrega al menos un amigo.");
+        alert("No hay Amigos para sortear, agrega al menos un amigo.");
         return;
     }
 
