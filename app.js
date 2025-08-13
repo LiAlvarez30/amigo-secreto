@@ -9,7 +9,7 @@ function agregarAmigo() {
     let nombre = input.value.trim();
 
     if (nombre === "") {
-        alert("Por favor escribe un nombre.");
+        alert("Por favor escribe el nombre de tu amigo.");
         return;
     }
 
